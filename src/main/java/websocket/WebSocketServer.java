@@ -1,4 +1,4 @@
-package server;
+package websocket;
 /*
  * Copyright 2012 The Netty Project
  *
